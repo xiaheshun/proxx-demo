@@ -1,0 +1,33 @@
+{
+  "serverUrl": "http://127.0.0.1:8080",
+  "isStrict": false,
+  "allInOne": true,
+  "allInOneDocFileName":"index.html",
+  "outPath": "target/docs",
+  "coverOld": true,
+  "packageFilters": "",
+  "style":"xt256",
+  "createDebugPage": true,
+  "md5EncryptedHtmlName": false,
+  "projectName": "Web Boot 单体微服务",
+  "skipTransientField": true,
+  "appToken": "62d34b8cdd1c46208bc6b0f19077b8a4",
+  "openUrl": "http://127.0.0.1:9090/api",
+  "replace": true,
+  "requestHeaders": [
+    {
+      "name": "token",
+      "type": "string",
+      "desc": "desc",
+      "required": false,
+      "since": "-"
+    }
+  ],
+
+  "sourceCodePaths": [
+    {
+      "path": "src/main/java",
+      "desc": "测试"
+    }
+  ]
+}
